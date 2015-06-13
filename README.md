@@ -17,4 +17,4 @@
 * `$ python manage.py migrate`
 * `$ python manage.py runserver`
 
-**Django SECRET_KEY set from a file, so this will have to be generated if deploying this application**
+**_Django SECRET_KEY set from a file, so this will have to be generated if deploying this application_**
