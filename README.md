@@ -7,7 +7,7 @@
 [Node.js](http://nodejs.org/).*
 
 * Fork this repository.
-* `$ git clone git@github.com:<your username>/django-angular-plus.git`
+* `$ git clone git@github.com:<your username>/django-angular-plus.git` **Using SSH to clone...[Click here for HTTPS](https://github.com/site-demo/django-angular-plus.git)** 
 * `$ mkvirtualenv djangular-angular-plus`
 * `$ cd django-angular-plus/`
 * `$ pip install -r requirements.txt`
