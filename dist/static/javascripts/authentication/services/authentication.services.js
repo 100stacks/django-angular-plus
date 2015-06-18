@@ -6,5 +6,8 @@
 (function() {
 	'use strict';
 	angular 
-		.module('')
+		.module('django-angular-plus.authentication.services')
+		.factory('Authentication', Authentication);
+
+	Authentication.$inject = ['$cookies', '$http'];
 })
